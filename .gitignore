@@ -1,0 +1,15 @@
+# PowerShell/runtime outputs
+_pdf_duplicates_quarantine/
+PDF_deduped_result_*/
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Local archives
+*.zip
