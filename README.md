@@ -1,10 +1,10 @@
 # PDF Dedupe
 
-A small Windows PowerShell utility for deduplicating PDF files in a folder.
+PDF Dedupe 是一个面向科研论文、文献资料和知识库归档场景的 Windows
+PowerShell PDF 去重工具。它以“先预览、再确认、可追溯、不误删”为核心原则，
+帮助用户快速清理重复 PDF，并生成可交付的干净结果目录。
 
-The tool previews duplicate candidates first. When confirmed, it moves duplicate
-PDFs into a quarantine folder and creates a clean dated output folder containing
-the remaining PDFs.
+项目需求文档见：[docs/PROJECT_REQUIREMENTS.md](docs/PROJECT_REQUIREMENTS.md)。
 
 ## Features
 
